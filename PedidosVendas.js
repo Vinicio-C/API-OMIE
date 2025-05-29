@@ -298,7 +298,7 @@ function getDescricaoEtapaVenda(codigoEtapa) {
 // Credenciais da API Omie (coloque as suas)
 function getCredentials() {
   return {
-    appKey: "2729522270475",
-    appSecret: "113d785bb86c48d064889d4d73348131"
+    appKey: "SUA_KEY",
+    appSecret: "SUA_APPSECRET"
   };
 }
